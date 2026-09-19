@@ -6,7 +6,7 @@ A responsive, pixel-perfect frontend clone of the **X (formerly Twitter)** web i
 
 ## 🚀 Live Demo
 
-[View Live Project](https://<Tarunkaushik09>.github.io/x-clone/)
+[View Live Project](https://Tarunkaushik09.github.io/x-clone/)
 
 ---
 
